@@ -18,26 +18,26 @@
     <string name="note_link_select">Pilih teks</string>
     <!-- notes list string -->
     <string name="format_folder_files_count">(%d)</string>
-    <string name="menu_create_folder">Folder baru</string>
+    <string name="menu_create_folder">Berkas baru</string>
     <string name="menu_setting">Pengaturan</string>
     <string name="menu_delete">Hapus</string>
     <string name="menu_move">Memindahkan</string>
     <string name="menu_stick">Menyematkan</string>
     <string name="menu_unstick">Melepaskan sematan</string>
-    <string name="menu_folder_change_name">Rubah nama folder</string>
-    <string name="folder_exist">Sebuah folder dengan nama yang sama sudah ada</string>
+    <string name="menu_folder_change_name">Rubah nama berkas</string>
+    <string name="folder_exist">Sebuah berkas dengan nama yang sama sudah ada</string>
     <string name="menu_send_to_desktop">Tempatkan pada layar utama</string>
-    <string name="menu_title_select_folder">Pilih folder</string>
-    <string name="menu_move_parent_folder">Folder induk</string>
+    <string name="menu_title_select_folder">Pilih berkas</string>
+    <string name="menu_move_parent_folder">Berkas induk</string>
     <string name="menu_rename_folder">Rubah nama</string>
     <string name="info_note_enter_desktop">Ditambahkan ke layar utama</string>
     <string name="alert_message_delete_notes">Hapus <xliff:g id="count">%1$s</xliff:g> catatan?</string>
-    <string name="alert_message_delete_folders">Hapus <xliff:g id="count">%1$s</xliff:g> folders?</string>
-    <string name="alert_message_delete_folders_notes">Hapus <xliff:g id="folderCount">%1$s</xliff:g> folders dan <xliff:g id="noteCount">%2$s</xliff:g> catatan?</string>
+    <string name="alert_message_delete_folders">Hapus <xliff:g id="count">%1$s</xliff:g> berkas?</string>
+    <string name="alert_message_delete_folders_notes">Hapus <xliff:g id="folderCount">%1$s</xliff:g> berkas dan <xliff:g id="noteCount">%2$s</xliff:g> catatan?</string>
     <string name="alert_message_delete_note">Hapus catatan ini?</string>
     <string name="format_move_notes_to_folder">Pindahkan %1$d catatan ke %2$s</string>
     <string name="alert_title_edit_anyway">Catatan ini berisi konten yang tidak didukung</string>
-    <string name="alert_message_edit_anyway">Jika kamu mengedit catatan ini sebagian isinya mungkin akan hilang.</string>
+    <string name="alert_message_edit_anyway">Jika anda mengedit catatan ini sebagian isinya mungkin akan hilang.</string>
     <string name="alert_action_edit_anyway">Lanjutkan suntingan</string>
     <!-- Error information -->
     <string name="error_note_not_exist">Catatan tidak ada</string>
@@ -48,63 +48,63 @@
     <string name="error_contact_not_exist">Kontak tidak ada</string>
     <!-- Sync -->
     <!-- Preferences -->
-    <string name="preferences_title">Settings</string>
-    <string name="preferences_bg_random_appear_title">Randomize new note color </string>
-    <string name="pref_title_font_size">Font size</string>
+    <string name="preferences_title">Pengaturan</string>
+    <string name="preferences_bg_random_appear_title">Mengacak warna catatan baru</string>
+    <string name="pref_title_font_size">Ukuran teks</string>
 
-    <string name="call_record_folder_name">Call notes</string>
-    <string name="hint_foler_name">Name</string>
+    <string name="call_record_folder_name">Pangil catatan</string>
+    <string name="hint_foler_name">Nama</string>
 
-    <string name="search_label">Searching notes</string>
-    <string name="search_hint">Search Notes</string>
-    <string name="search_setting_description">Text in your notes</string>
-    <string name="search">Notes</string>
+    <string name="search_label">Mencari catatan</string>
+    <string name="search_hint">Cari catatan</string>
+    <string name="search_setting_description">Teks dalam catatan anda</string>
+    <string name="search">Catatan</string>
     <plurals name="search_results_title">
-         <item quantity="one"><xliff:g id="number" example="1">%1$s</xliff:g> result for \"<xliff:g id="search" example="???">%2$s</xliff:g>\"</item>
+         <item quantity="one"><xliff:g id="number" example="1">%1$s</xliff:g> hasil pencarian untuk \"<xliff:g id="search" example="???">%2$s</xliff:g>\"</item>
         <!-- Case of 0 or 2 or more results. -->
-        <item quantity="other"><xliff:g id="number" example="15">%1$s</xliff:g> results for \"<xliff:g id="search" example="???">%2$s</xliff:g>\"</item>
+        <item quantity="other"><xliff:g id="number" example="15">%1$s</xliff:g> hasil pencarian untuk \"<xliff:g id="search" example="???">%2$s</xliff:g>\"</item>
     </plurals>
 
-    <string name="button_new_note">New note</string>
-    <string name="default_folder_name">Unnamed folder</string>
+    <string name="button_new_note">Catatan baru</string>
+    <string name="default_folder_name">Berkas belum diberi nama</string>
 
-    <string name="attachment_gallery">Gallery</string>
-    <string name="attachment_camera">Camera</string>
-    <string name="attachment_contact">Contacts</string>
+    <string name="attachment_gallery">Galeri</string>
+    <string name="attachment_camera">Kamera</string>
+    <string name="attachment_contact">Kontak</string>
 
     <string name="alert_edit_action_update">Modify</string>
     <string name="alert_edit_action_delete">Remove</string>
 
-    <string name="notify_alarm_title">Note reminder</string>
+    <string name="notify_alarm_title">Pengingat catatan</string>
 
-    <string name="toast_message_add_image_fail">Failed to add image</string>
-    <string name="toast_note_privacy_mode">Can\'t edit note in Guest mode</string>
-    <string name="toast_folder_privacy_mode">Can\'t edit folder in Guest mode</string>
-    <string name="toast_reach_text_limit_truncate">This note is too long. Some text has been cut off of the end to make it fit.</string>
-    <string name="toast_reach_text_limit_attachment">Can\'t add new attachments because the note is too long</string>
+    <string name="toast_message_add_image_fail">Gagal untuk menambahkan gambar</string>
+    <string name="toast_note_privacy_mode">Tidak dapat mengedit catatan dalam modus tamu</string>
+    <string name="toast_folder_privacy_mode">Tidak dapat mengedit berkas dalam modus tamu</string>
+    <string name="toast_reach_text_limit_truncate">Catatan ini terlalu panjang. Beberapa teks telah dipotong dari akhir untuk membuatnya sesuai.</string>
+    <string name="toast_reach_text_limit_attachment">Tidak bisa menambahkan lampiran baru karena catatan terlalu panjang</string>
 
     <string name="snippet_image_stub">[Image]</string>
     <string name="snippet_image_template">[Image <xliff:g id="imageName" example="1.jpeg">%1$s</xliff:g>]</string>
 
-    <string name="select_account_prompt">Enable note synchronization</string>
-    <string name="enable_sync_desc">Sync your notes with your Mi Account (<xliff:g id="accountName" example="100000">%1$s</xliff:g>)?</string>
-    <string name="add_account_desc">Sync your notes with your Mi Account?</string>
-    <string name="not_now">Not now</string>
-    <string name="enable_sync">Sync</string>
-    <string name="login_sync">Sign in &amp; sync</string>
+    <string name="select_account_prompt">Aktifkan sinkronisasi catatan</string>
+    <string name="enable_sync_desc">Sinkronkan catatan dengan akun Mi anda (<xliff:g id="accountName" example="100000">%1$s</xliff:g>)?</string>
+    <string name="add_account_desc">Sinkronkan catatan dengan akun Mi anda?</string>
+    <string name="not_now">Jangan sekarang</string>
+    <string name="enable_sync">Sinkronkan</string>
+    <string name="login_sync">Masuk &amp; sinkronkan</string>
 
-    <string name="pref_title_note_style">Note style</string>
-    <string name="pref_desc_mode_list">List</string>
-    <string name="pref_desc_mode_grid">Grid</string>
-    <string name="pref_title_common">Additional settings</string>
-    <string name="pref_title_alarm_when_silent">Alarms in silent mode</string>
-    <string name="pref_desc_alarm_when_silent">Active alarms will still sound when ringer is silenced</string>
+    <string name="pref_title_note_style">Gaya catatan</string>
+    <string name="pref_desc_mode_list">Daftar</string>
+    <string name="pref_desc_mode_grid">Kisi</string>
+    <string name="pref_title_common">Pengaturan tambahan</string>
+    <string name="pref_title_alarm_when_silent">Alarm dalam modus senyap</string>
+    <string name="pref_desc_alarm_when_silent">Alarm aktif masih akan berbunyi saat dering dalam modus senyap</string>
 
-    <string name="dlg_title_confirm_alarm_silent">Silence alarms</string>
-    <string name="dlg_desc_confirm_alarm_silent">Active alarms will not sound when ringer is silenced.</string>
+    <string name="dlg_title_confirm_alarm_silent">Alarm senyap</string>
+    <string name="dlg_desc_confirm_alarm_silent">Alarm aktif tidak akan terdengar ketika dering dalam modus senyap.</string>
 
-    <string name="close">Close</string>
-    <string name="undo">Undo</string>
-    <string name="redo">Redo</string>
+    <string name="close">Tutup</string>
+    <string name="undo">Balik ke belakang</string>
+    <string name="redo">Balik kedepan</string>
 
 </resources>
