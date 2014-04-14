@@ -2,9 +2,9 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Sound settings. The haptic feedback strength -->
     <string-array name="haptic_feedback_level_entries">
-        <item>Strong</item>
-        <item>Medium</item>
-        <item>Light</item>
+        <item>Kuat</item>
+        <item>Sedang</item>
+        <item>Ringan</item>
     </string-array>
 
     <!-- Do not translate. -->
@@ -18,9 +18,9 @@
     </string-array>
 
     <string-array name="media_feedback_level_entries">
-        <item>Strong</item>
-        <item>Medium</item>
-        <item>Light</item>
+        <item>Kuat</item>
+        <item>Sedang</item>
+        <item>Ringan</item>
     </string-array>
 
     <!-- Do not translate. -->
@@ -35,8 +35,8 @@
 
     <!-- Display settings.  The style of battery status showed in status bar. These are shown in a list dialog. -->
     <string-array name="battery_indicator_style_entries">
-        <item>Graphical</item>
-        <item>Percentage</item>
+        <item>Grafis</item>
+        <item>Persentase</item>
         <item>Top bar</item>
     </string-array>
 
@@ -47,9 +47,9 @@
     </string-array>
 
     <string-array name="usb_connection_mode_entries">
-        <item>Ask upon connection</item>
-        <item>Charge only</item>
-        <item>Mount SD card</item>
+        <item>Tanyakan pada koneksi</item>
+        <item>Hanya mengisi</item>
+        <item>Tempelkan kartu memori</item>
     </string-array>
 
     <string-array name="usb_connection_mode_values" translatable="false">
@@ -60,14 +60,14 @@
 
     <!-- Display settings. Available frequency for breathing LED -->
     <string-array name="led_freq_entries">
-        <item>2 seconds</item>
-        <item>3 seconds</item>
-        <item>4 seconds</item>
-        <item>5 seconds</item>
-        <item>6 seconds</item>
-        <item>7 seconds</item>
-        <item>8 seconds</item>
-        <item>9 seconds</item>
+        <item>2 detik</item>
+        <item>3 detik</item>
+        <item>4 detik</item>
+        <item>5 detik</item>
+        <item>6 detik</item>
+        <item>7 detik</item>
+        <item>8 detik</item>
+        <item>9 detik</item>
     </string-array>
 
     <!-- Do not translate. 合法的闪烁时间在2-9秒之间-->
@@ -105,22 +105,22 @@
 
     <!-- Display settings. Available colors for breathing LED -->
     <string-array name="mi1_led_color_entries">
-        <item>Blue</item>
-        <item>Red</item>
-        <item>Green</item>
-        <item>Pink</item>
+        <item>Biru</item>
+        <item>Merah</item>
+        <item>Hijau</item>
+        <item>Merah Muda</item>
         <item>Violet</item>
-        <item>Purple</item>
+        <item>Ungu</item>
     </string-array>
 
     <!-- Display settings. Available colors for breathing LED -->
     <string-array name="led_color_entries">
-        <item>Blue</item>
-        <item>Red</item>
-        <item>Yellow</item>
-        <item>Green</item>
+        <item>Biru</item>
+        <item>Merah</item>
+        <item>Kuning</item>
+        <item>Hijau</item>
         <item>Cyan</item>
-        <item>White</item>
+        <item>Putih</item>
         <item>Violet</item>
     </string-array>
 
@@ -196,11 +196,11 @@
 
     <!-- Screen key long press action -->
     <string-array name="screen_key_long_press_action">
-        <item>None</item>
-        <item>Show recent apps tray</item>
-        <item>Launch Assistant</item>
-        <item>Launch Google now</item>
-        <item>Close current app</item>
+        <item>Tak satupun</item>
+        <item>Tampilkan "apps tray" baru-baru ini</item>
+        <item>Jalankan asisten</item>
+        <item>Jalankan Google Now</item>
+        <item>Tutup aplikasi yang sedang berjalan</item>
     </string-array>
 
     <!-- Screen key long press action value -->
@@ -214,10 +214,10 @@
 
     <!-- Screen key long press interval -->
     <string-array name="screen_key_long_press_timeout">
-        <item>0.5 second</item>
-        <item>1 second</item>
-        <item>1.5 seconds</item>
-        <item>2 seconds</item>
+        <item>0.5 detik</item>
+        <item>1 detik</item>
+        <item>1.5 detik</item>
+        <item>2 detik</item>
     </string-array>
 
     <!-- Screen key long press interval value -->
@@ -230,12 +230,12 @@
 
     <!-- Timeout for screen button -->
     <string-array name="button_light_timeout_entries">
-        <item>1 second</item>
-        <item>2 seconds</item>
-        <item>5 seconds</item>
-        <item>10 seconds</item>
-        <item>20 seconds</item>
-        <item>Always</item>
+        <item>1 detik</item>
+        <item>2 detik</item>
+        <item>5 detik</item>
+        <item>10 detik</item>
+        <item>20 detik</item>
+        <item>Selalu</item>
     </string-array>
 
     <!-- Timeout for screen button value-->
@@ -249,10 +249,10 @@
     </string-array>
 
     <string-array name="font_size_title">
-        <item>@string/font_size_small</item>
-        <item>@string/font_size_normal</item>
-        <item>@string/font_size_medium</item>
-        <item>@string/font_size_large</item>
+        <item>@string/ukuran_teks_kecil</item>
+        <item>@string/ukuran_teks_normal</item>
+        <item>@string/ukuran_teks_sedang</item>
+        <item>@string/ukuran_teks_besar</item>
     </string-array>
 
     <integer-array name="font_size_preference_preview_size" translatable="false">
@@ -311,12 +311,12 @@
     <!-- Match this with the order of WfdSettings Session Status -->
     <!-- Wi-Fi Display settings device status message -->
     <string-array name="wfd_status">
-        <item>Device connected, creating session\u2026</item>
-        <item>Session created.</item>
-        <item>Session tearing down\u2026</item>
-        <item>Session failed.</item>
-        <item>Timed out, retrying\u2026</item>
-        <item>Device connected</item>
+        <item>Perangkat yang terhubung, membuat sesi\u2026</item>
+        <item>Sesi berhasil dibuat.</item>
+        <item>Sesi meruntuhkan\u2026</item>
+        <item>Sesi gagal.</item>
+        <item>Waktu habis, mencoba lagi\u2026</item>
+        <item>Perangkat terhubung</item>
     </string-array>
 
     <!-- power mode -->
