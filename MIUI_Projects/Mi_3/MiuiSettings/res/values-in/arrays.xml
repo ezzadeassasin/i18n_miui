@@ -321,56 +321,56 @@
 
     <!-- power mode -->
     <string-array name="power_mode_entries">
-        <item>High performance</item>
-        <item>Balance</item>
-        <item>Battery saving</item>
+        <item>Performa tinggi</item>
+        <item>Seimbang</item>
+        <item>Hemat baterai</item>
     </string-array>
 
     <!-- msd driver -->
     <string-array name="msd_pc_system">
-        <item>Windows XP and older versions of Windows</item>
-        <item>Windows Vista and newer versions of Windows</item>
+        <item>Windows XP dan versi Windows</item>
+        <item>Windows Vista dan versi terbaru dari Windows</item>
         <item>Mac OS</item>
         <item>Linux</item>
     </string-array>
 
     <string-array name="msd_pc_system_install_start_summary">
-        <item>For Windows XP and older versions of Windows,\ndriver must be installed manually</item>
-        <item>For Windows Vista and newer versions of Windows, \nthe music player will appear automatically</item>
-        <item>For Mac OS,\ndriver must be installed manually</item>
+        <item>Untuk Windows XP dan versi Windows,\ndriver harus diinstal secara manual</item>
+        <item>Untuk Windows Vista dan versi terbaru dari Windows, \npemutar musik akan muncul secara otomatis</item>
+        <item>Untuk Mac OS,\ndriver harus diinstal secara manual</item>
         <item></item>
     </string-array>
 
     <string-array name="msd_pc_system_install_step_1_summary">
-        <item>(Ignore the Setup Wizard)\nWhen connected, Xiaomi will appear as a USB mass storage device.\n Open and select Setup.exe to install</item>
+        <item>(Abaikan Pengaturan Ahli)\nKetika terhubung, Xiaomi akan muncul sebagai perangkat penyimpanan massal USB.\n Buka dan pilih Setup.exe untuk memasang</item>
         <item></item>
-        <item>When connected, Xiaomi will appear as a USB mass storage device on your desktop.\nOpen and select AndroidFileTransfer.dmg to install.</item>
+        <item>Ketika terhubung, Xiaomi akan muncul sebagai perangkat penyimpanan massal USB pada desktop anda.\nBuka dan pilih AndroidFileTransfer.dmg untuk memasang.</item>
         <item></item>
     </string-array>
 
     <string-array name="msd_pc_system_install_step_2_summary">
-        <item>2. MI 2 will appear as a USB mass storage\n device when connected to your computer.</item>
+        <item>2. MI 2 akan muncul sebagai perangkat penyimpanan massal USB\n perangkat ketika terhubung ke komputer anda.</item>
         <item></item>
-        <item>Transfer files like you would to any other external hard drive.</item>
+        <item>Mentransfer berkas sesuai yang anda mau pada hard drive eksternal lainnya.</item>
         <item></item>
     </string-array>
 
     <string-array name="msd_pc_system_install_finish_summary">
-        <item>After you install this driver\nMI 2 will appear as a USB mass storage device when connected to a computer.</item>
-        <item>For Windows Vista and newer versions of Windows,\nthe MI 2 music player will appear on your computer automatically</item>
-        <item>When you install this driver\nphone will open automatically when connected to a computer.</item>
+        <item>Setelah anda memasang driver ini\nMI 2 akan muncul sebagai perangkat penyimpanan massal USB ketika terhubung ke komputer.</item>
+        <item>Untuk Windows Vista dan versi terbaru dari Windows,\npemutar musik MI 2 akan muncul di komputer anda secara otomatis</item>
+        <item>Ketika anda memasang driver ini\ntelepon akan terbuka secara otomatis ketika terhubung ke komputer.</item>
         <item></item>
     </string-array>
 
     <string-array name="screen_color_title">
-        <item>Warm</item>
-        <item>Standard</item>
-        <item>Cool</item>
+        <item>Hangat</item>
+        <item>Standar</item>
+        <item>Sejuk</item>
     </string-array>
 
     <string-array name="screen_saturation_title">
-        <item>Brilliant</item>
-        <item>Standard</item>
+        <item>Cerah</item>
+        <item>Standar</item>
     </string-array>
 
     <!-- 授权管理 -->
@@ -381,9 +381,9 @@
     </string-array>
 
     <string-array name="perm_hips_action">
-         <item>Allow</item>
-         <item>Ask</item>
-         <item>Deny</item>
+         <item>Mengizinkan</item>
+         <item>Menanyakan</item>
+         <item>Menolak</item>
     </string-array>
 
     <string-array name="startup_hips_values">
@@ -392,8 +392,8 @@
     </string-array>
 
     <string-array name="startup_hips_action">
-         <item>Allow</item>
-         <item>Deny</item>
+         <item>Mengizinkan</item>
+         <item>Menolak</item>
     </string-array>
 
     <!-- String values for Color Calibration (SRGB) Settings preference. -->
@@ -419,17 +419,17 @@
     </string-array>
 
     <string-array name="change_security_lock_picker_key">
-        <item>facial</item>
-        <item>pattern</item>
-        <item>numerical</item>
-        <item>mixed</item>
+        <item>Wajah</item>
+        <item>Pola</item>
+        <item>Bilangan</item>
+        <item>Campur</item>
     </string-array>
 
     <string-array name="change_security_lock_picker">
-        <item>Face unlock</item>
-        <item>Pattern</item>
+        <item>Buka kunci dengan wajah</item>
+        <item>Pola</item>
         <item>PIN</item>
-        <item>Password</item>
+        <item>Sandi</item>
     </string-array>
 
      <!-- Do not translate. -->
@@ -452,13 +452,13 @@
 
     <!-- Display settings.  The delay in inactivity before the screen is turned off. These are shown in a list dialog. -->
     <string-array name="screen_timeout_entries">
-        <item>15 seconds</item>
-        <item>30 seconds</item>
-        <item>1 minute</item>
-        <item>2 minutes</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>Never</item>
+        <item>15 detik</item>
+        <item>30 detik</item>
+        <item>1 menit</item>
+        <item>2 menit</item>
+        <item>5 menit</item>
+        <item>10 menit</item>
+        <item>Tidak pernah</item>
     </string-array>
 
     <!-- VIP名单list -->
@@ -474,11 +474,11 @@
 
     <string-array name="wifi_connect_type_entries">
         <!-- auto connect to wifi -->
-        <item>Automatically connect</item>
+        <item>Menghubungkan secara otomatis</item>
         <!-- manual connect to wifi -->
-        <item>Manually connect</item>
+        <item>Mengubungkan secara manual</item>
         <!-- always notify user when wifi is available -->
-        <item>Always ask</item>
+        <item>Selalu bertanya</item>
     </string-array>
     <string-array name="wifi_connect_type_values" translatable="false">
         <!-- auto connect to wifi -->
@@ -495,11 +495,11 @@
         <item>2</item>
     </string-array>
     <string-array name="slideshow_time_entries" >
-        <item>5 minutes</item>
-        <item>15 minutes</item>
-        <item>30 minutes</item>
-        <item>1 hour</item>
-        <item>Unlimited</item>
+        <item>5 menit</item>
+        <item>15 menit</item>
+        <item>30 menit</item>
+        <item>1 jam</item>
+        <item>Tak terbatas</item>
     </string-array>
 
     <string-array name="slideshow_time_entryValues" tranlatable="false" >
@@ -512,20 +512,20 @@
 
     <!-- preferred application settings -->
     <string-array name="preferred_app_entries" >
-        <item>Launcher</item>
-        <item>Dial</item>
-        <item>Messaging</item>
+        <item>Peluncur</item>
+        <item>Panggilan</item>
+        <item>Pesan</item>
         <item>Browser</item>
-        <item>Camera</item>
-        <item>Gallery</item>
-        <item>Music</item>
+        <item>Kamera</item>
+        <item>Galeri</item>
+        <item>Musik</item>
         <item>Email</item>
     </string-array>
 
     <!-- summary for network speed slow -->
     <string-array name="network_speed_slow_summary" >
-        <item>Network is slow due to too much traffic</item>
-        <item>Network is slow due to weak signal strength</item>
-        <item>Moving\u2026</item>
+        <item>Jaringan lambat karena terlalu banyak lalu lintas</item>
+        <item>Jaringan lambat karena kekuatan sinyal lemah</item>
+        <item>Pindah\u2026</item>
     </string-array>
 </resources>
