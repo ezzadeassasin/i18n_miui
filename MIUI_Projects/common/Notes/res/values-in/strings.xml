@@ -104,7 +104,7 @@
     <string name="dlg_desc_confirm_alarm_silent">Alarm aktif tidak akan terdengar ketika dering dalam modus senyap.</string>
 
     <string name="close">Tutup</string>
-    <string name="undo">Balik ke belakang</string>
-    <string name="redo">Balik kedepan</string>
+    <string name="undo">Balik ke akhir</string>
+    <string name="redo">Balik ke awal</string>
 
 </resources>
