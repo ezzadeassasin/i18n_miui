@@ -18,7 +18,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Name of the status bar as seen in the applications info settings page. [CHAR LIMIT=12] -->
-    <string name="app_label">System UI</string>
+    <string name="app_label">Sistem UI</string>
 
     <!-- The text for the button in the notification window-shade that clears
          all of the currently visible notifications. [CHAR LIMIT=10]-->
@@ -33,27 +33,27 @@
          shown again. [CHAR LIMIT=25] -->
 
     <!-- Title shown in recents popup for removing an application from the list -->
-    <string name="status_bar_recent_remove_item_title">Remove from list</string>
+    <string name="status_bar_recent_remove_item_title">Hapus dari daftar</string>
 
     <!-- Title shown in recents popup for inspecting an application's properties -->
-    <string name="status_bar_recent_inspect_item_title">App info</string>
+    <string name="status_bar_recent_inspect_item_title">Info aplikasi</string>
 
     <!-- Message shown in the middle of the screen after clicking on the recent apps button
          when there are no recent apps to show. Also used for accessibility. [CHAR LIMIT=45]-->
-    <string name="status_bar_no_recent_apps">No recent apps</string>
+    <string name="status_bar_no_recent_apps">Tidak ada aplikasi yang dibuka belakangan ini</string>
 
     <!-- Content description for the button to dismiss Recent Apps (only present on large
          devices) -->
 
     <!-- Message that is read when you enter recent apps in TalkBack -->
     <plurals name="status_bar_accessibility_recent_apps">
-        <item quantity="one">1 recent app</item>
-        <item quantity="other">%d recent apps</item>
+        <item quantity="one">1 aplikasi yang dibuka belakangan ini</item>
+        <item quantity="other">%d aplikasi yang dibuka belakangan ini</item>
     </plurals>
 
-    <string name="status_bar_recent_guide_all">Slide up to close, slide down to lock</string>
-    <string name="status_bar_recent_guide_top">Slide up to close</string>
-    <string name="status_bar_recent_guide_bottom">Slide down to lock</string>
+    <string name="status_bar_recent_guide_all">Geser ke atas untuk menutup, geser ke bawah untuk mengunci</string>
+    <string name="status_bar_recent_guide_top">Geser ke atas untuk menutup</string>
+    <string name="status_bar_recent_guide_bottom">Geser ke bawah untuk mengunci</string>
 
     <!-- The label in the bar at the top of the status bar when there are no notifications
          showing.  [CHAR LIMIT=40]-->
@@ -67,7 +67,7 @@
          [CHAR LIMIT=40] -->
 
     <!-- When the battery is low, this is displayed to the user in a dialog.  The title of the low battery alert.  [CHAR LIMIT=NONE]-->
-    <string name="battery_low_title">Connect charger</string>
+    <string name="battery_low_title">Hubungkan pengisi sumber daya</string>
 
     <!-- When the battery is low, this is displayed to the user in a dialog. The subtitle of the low battery alert. [CHAR LIMIT=NONE] -->
     <string name="battery_low_subtitle">The battery is getting low.</string>
