@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">Payment service</string>
+    <string name="app_name">Layanan pembayaran</string>
     <string name="format_time">MMM dd, yyyy hh:mmaa</string>
     <string name="format_date">MMM. dd, yyyy</string>
     <string name="colon">:\u0020</string>
 
-    <string name="label_order_name">Product:</string>
-    <string name="label_order_price">Price:</string>
-    <string name="label_balance">Balance:</string>
+    <string name="label_order_name">Produk:</string>
+    <string name="label_order_price">Harga:</string>
+    <string name="label_balance">Saldo:</string>
     <string name="order_price"><xliff:g id="value">%1$s</xliff:g> MiCredits</string>
-    <string name="password_hint">Enter account password</string>
-    <string name="password_error">Password incorrect.</string>
-    <string name="password_forget">forgot?</string>
-    <string name="progress_creating">Retrieving order info\u2026</string>
-    <string name="progress_loading">Processing\u2026</string>
-    <string name="button_cancel">Cancel</string>
-    <string name="button_retry">Retry</string>
-    <string name="button_call">Call</string>
-    <string name="button_pay">Confirm</string>
-    <string name="button_recharge_pay">Confirm</string>
-    <string name="button_recharge">Top up</string>
+    <string name="password_hint">Masukkan sandi akun</string>
+    <string name="password_error">Sandi salah.</string>
+    <string name="password_forget">Lupa?</string>
+    <string name="progress_creating">Mendapatkan kembali info pesanan\u2026</string>
+    <string name="progress_loading">Sedang diproses\u2026</string>
+    <string name="button_cancel">Batal</string>
+    <string name="button_retry">Mencoba kembali</string>
+    <string name="button_call">Panggilan</string>
+    <string name="button_pay">Konfirmasi</string>
+    <string name="button_recharge_pay">Konfirmasi</string>
+    <string name="button_recharge">Isi ulang</string>
     <string name="balance_payment"><xliff:g id="value">%1$s</xliff:g> MiCredits</string>
-    <string name="balance_giftcard_payment"><xliff:g id="value">%1$s</xliff:g> MiCredits (<xliff:g id="gift">%2$s</xliff:g>-MiCredit gift card)</string>
-    <string name="balance_no_giftcard_payment"><xliff:g id="value">%1$s</xliff:g> MiCredits (cannot use MiCredit gift card for this order)</string>
+    <string name="balance_giftcard_payment"><xliff:g id="value">%1$s</xliff:g> MiCredits (<xliff:g id="gift">%2$s</xliff:g>-Kartu hadiah MiCredit)</string>
+    <string name="balance_no_giftcard_payment"><xliff:g id="value">%1$s</xliff:g> MiCredits (tidak dapat menggunakan kartu hadiah MiCredit untuk pesanan ini)</string>
 
     <string name="balance">Balance: <xliff:g id="value">%1$s</xliff:g> MiCredits</string>
-    <string name="giftcard_value">(<xliff:g id="value">%1$s</xliff:g>-MiCredit gift card)</string>
-    <string name="frozen">(Frozen)</string>
+    <string name="giftcard_value">(<xliff:g id="value">%1$s</xliff:g>-Kartu hadiah MiCredit)</string>
+    <string name="frozen">(Dibekukan)</string>
     <string name="mili_center">MiCredit</string>
     <string name="memu_refresh">Refresh</string>
 
-    <string name="error_mili_summary">Insufficient funds.</string>
-    <string name="error_network_title">Network error</string>
-    <string name="error_network_summary">Couldn\'t connect to network.</string>
-    <string name="error_auth_title">Login error</string>
-    <string name="error_auth_summary">Account login error, please log in again.</string>
-    <string name="error_has_bought_title">Repeat purchase</string>
-    <string name="error_has_bought_summary">You have already purchased this product.</string>
-    <string name="error_server_title">Server error</string>
-    <string name="error_server_summary">Server error. Please try again later</string>
-    <string name="error_common_title">System error</string>
-    <string name="error_common_summary">System error. Please try again later.</string>
-    <string name="error_user_id_mismatch_title">Account error</string>
-    <string name="error_user_id_mismatch_summary">Please check and re-login your account</string>
+    <string name="error_mili_summary">Dana tidak cukup.</string>
+    <string name="error_network_title">Kesalahan jaringan</string>
+    <string name="error_network_summary">Tidak dapat terhubung ke jaringan.</string>
+    <string name="error_auth_title">Kesalahan login</string>
+    <string name="error_auth_summary">Kesalahan login pada akun, silahkan coba lagi.</string>
+    <string name="error_has_bought_title">Ulangi pembelian</string>
+    <string name="error_has_bought_summary">Anda sudah membeli produk ini.</string>
+    <string name="error_server_title">Kesalahan server</string>
+    <string name="error_server_summary">Kesalahan server. Silakan coba lagi</string>
+    <string name="error_common_title">Kesalahan sistem</string>
+    <string name="error_common_summary">Kesalahan sistem. Silakan coba lagi.</string>
+    <string name="error_user_id_mismatch_title">Kesalahan akun</string>
+    <string name="error_user_id_mismatch_summary">Silakan periksa dan login ulang akun anda</string>
     <string name="error_illegal_order_title">Order error</string>
     <string name="error_illegal_order_summary">Order error. Please try again later</string>
     <string name="error_verify_title">No permission</string>
