@@ -95,43 +95,43 @@
     <string name="progress_paytool_creating">Membuat <xliff:g id="tool">%1$s</xliff:g> order\u2026</string>
     <string name="progress_paytool_installing">Memasang <xliff:g id="tool">%1$s</xliff:g> plugin keamanan mobile\u2026</string>
 
-    <string name="prepaid_grid_carrier_hint">Select carrier</string>
-    <string name="prepaid_grid_denomination_hint">Select amount</string>
+    <string name="prepaid_grid_carrier_hint">Pilih operator</string>
+    <string name="prepaid_grid_denomination_hint">Pilih jumlah</string>
     <string name="prepaid_picker_hint_1_1">1. </string>
-    <string name="prepaid_picker_hint_1_2">Only supports one-time charge; </string>
+    <string name="prepaid_picker_hint_1_2">Hanya mendukung biaya satu kali; </string>
     <string name="prepaid_picker_hint_2_1">2. </string>
-    <string name="prepaid_picker_hint_2_2_a">Selected nominal value must be consistent with that of the prepaid card. Choosing another value will void the card. This action can\'t be undone. </string>
-    <string name="prepaid_picker_hint_2_2_b">If the nominal value of the prepaid card is not &lt;font color=red>￥<xliff:g id="value">%1$s</xliff:g>&lt;/font>, the card will be void. Xiaomi is not responsible for any monetary loss that occurs as a result of user error.</string>
-    <string name="prepaid_number_edit_hint">Number</string>
-    <string name="prepaid_password_edit_hint">Password</string>
-    <string name="prepaid_edit_limit">digits</string>
-    <string name="prepaid_error_carrier">Select carrier</string>
-    <string name="prepaid_error_denomination">Select amount</string>
-    <string name="prepaid_error_card_number">Card number invalid.</string>
-    <string name="prepaid_error_password">Card password invalid.</string>
-    <string name="prepaid_error_card_length">Invalid card number or password.</string>
-    <string name="progress_prepaid_creating">Generating order\u2026</string>
+    <string name="prepaid_picker_hint_2_2_a">Nilai nominal yang dipilih harus konsisten dengan kartu prabayar. Memilih nilai lain akan membatalkan kartu. Tindakan ini tidak dapat dibatalkan. </string>
+    <string name="prepaid_picker_hint_2_2_b">Jika nilai nominal kartu prabayar tidak &lt;font color=red>￥<xliff:g id="value">%1$s</xliff:g>&lt;/font>, kartu tidak berlaku. Xiaomi tidak bertanggung jawab atas kerugian moneter yang terjadi sebagai akibat dari kesalahan pengguna.</string>
+    <string name="prepaid_number_edit_hint">Nomor</string>
+    <string name="prepaid_password_edit_hint">Sandi</string>
+    <string name="prepaid_edit_limit">Digit</string>
+    <string name="prepaid_error_carrier">Pilih operator</string>
+    <string name="prepaid_error_denomination">Pilih jumlah</string>
+    <string name="prepaid_error_card_number">Nomor kartu tidak valid.</string>
+    <string name="prepaid_error_password">Sandi kartu tidak valid.</string>
+    <string name="prepaid_error_card_length">Nomor kartu atau sandi tidak valid.</string>
+    <string name="progress_prepaid_creating">Melakukan pesanan\u2026</string>
 
-    <string name="voucher_input_password_prompt">Enter code</string>
-    <string name="voucher_edit_hint">Code</string>
-    <string name="voucher_edit_limit">digits</string>
-    <string name="voucher_error_password">Code invalid.</string>
-    <string name="progress_voucher_creating">Topping up MiCredit card\u2026</string>
+    <string name="voucher_input_password_prompt">Masukkan code</string>
+    <string name="voucher_edit_hint">Kode</string>
+    <string name="voucher_edit_limit">Digit</string>
+    <string name="voucher_error_password">Kode tidak valid.</string>
+    <string name="progress_voucher_creating">Pengisian saldo kartu MiCredit\u2026</string>
 
     <string name="msg_picker_hint_1_1">1. </string>
-    <string name="msg_picker_hint_1_2">Topping up via text maybe more expensive: &lt;font color=red>￥<xliff:g id="rmb">%1$d</xliff:g> = <xliff:g id="mibi">%2$d</xliff:g> MiCredit&lt;/font></string>
+    <string name="msg_picker_hint_1_2">Pengisian saldo melalui teks mungkin lebih mahal: &lt;font color=red>￥<xliff:g id="rmb">%1$d</xliff:g> = <xliff:g id="mibi">%2$d</xliff:g> MiCredit&lt;/font></string>
     <string name="msg_picker_hint_2_1">2. </string>
-    <string name="msg_picker_hint_2_2">Carriers charge a ￥<xliff:g id="value">%1$s</xliff:g> service fee per top-up</string>
+    <string name="msg_picker_hint_2_2">Biaya operator ￥<xliff:g id="value">%1$s</xliff:g> biaya layanan satu kali pengisian saldo</string>
     <string name="msg_denomination_type">MiCredit</string>
-    <string name="msg_error">Top-up failed</string>
-    <string name="progress_msg_creating">Generating top-up order\u2026</string>
+    <string name="msg_error">Pengisian saldo gagal</string>
+    <string name="progress_msg_creating">Melakukan pesanan pengisian saldo\u2026</string>
 
-    <string name="msg_send_send_fail_error">Failed to send message</string>
-    <string name="msg_send_no_sim_error">Failed to send message: try reinserting your SIM card.</string>
-    <string name="msg_send_no_net_error">Failed to send message: couldn\'t connect to network provider. </string>
-    <string name="msg_telecom_order_goods_label">Product description:</string>
+    <string name="msg_send_send_fail_error">Gagal untuk mengirimkan pesan</string>
+    <string name="msg_send_no_sim_error">Gagal untuk mengirimkan pesan: mencoba memasukkan kembali kartu SIM anda.</string>
+    <string name="msg_send_no_net_error">Gagal untuk mengirimkan pesan: tidak dapat terhubung ke penyedia jaringan. </string>
+    <string name="msg_telecom_order_goods_label">Deskripsi produk:</string>
     <string name="msg_telecom_order_goods"><xliff:g id="mibi_num">%1s</xliff:g> MiCredits</string>
-    <string name="msg_telecom_order_denom_label">Amount due: </string>
+    <string name="msg_telecom_order_denom_label">Jumlah yang harus dibayar: </string>
     <string name="msg_telecom_order_denom">￥<xliff:g id="rmb_num">%1s</xliff:g> (not including mobile network data fees)</string>
     <string name="msg_telecom_sending">Contacting network provider\u2026</string>
     <string name="btn_recharge_confirm">Confirm purchase</string>
