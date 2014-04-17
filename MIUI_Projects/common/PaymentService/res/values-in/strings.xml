@@ -182,120 +182,120 @@
     <string name="btn_delete_record">Hapus</string>
     <string name="bankcall_saved_card_info"><xliff:g id="bank">%1$s</xliff:g> - Nomor kartu <xliff:g id="ending">%2$s</xliff:g></string>
 
-    <string name="progress_submit_title">Request submitted</string>
-    <string name="progress_submit_recharge_summary">Topping up: <xliff:g id="value">%1$s</xliff:g> MiCredits.</string>
-    <string name="progress_submit_hint">Top-up will be reflected in you account balance within 3 minutes.</string>
-    <string name="btn_count_down_auto">Inquire after <xliff:g id="count">%1$s</xliff:g> seconds</string>
-    <string name="btn_query">Inquire</string>
-    <string name="progress_querying">Processing\u2026</string>
-    <string name="progress_success_recharge_title"><xliff:g id="value">%1$s</xliff:g> MiCredit top-up complete</string>
-    <string name="progress_success_pay_title"><xliff:g id="value">%1$s</xliff:g> MiCredit payment complete</string>
-    <string name="progress_success_recharge_summary">Account balance: <xliff:g id="balance">%1$s</xliff:g> MiCredits.</string>
-    <string name="progress_success_pay_summary"><xliff:g id="rechargeFee">%1$s</xliff:g> MiCredits recharged，<xliff:g id="payFee">%2$s</xliff:g> MiCredits paied</string>
-    <string name="progress_error_recharge_title">Top-up failed</string>
-    <string name="progress_error_recharge_summary">Top-up failed, please retry later.</string>
-    <string name="progress_error_pay_title">Payment failed</string>
-    <string name="progress_error_pay_summary"><xliff:g id="rechargeFee">%1$s</xliff:g> MiCredits recharged, but payment failed, please retry later.</string>
-    <string name="progress_warning_waiting">Payment hasn\'t reached your account yet.</string>
-    <string name="progress_warning_contact_server">Payment still hasn\'t reached your account. \n1. Please contact our Shenzhou customer service center：<xliff:g id="number">%1$s</xliff:g> \n2. When prompted, provide the serial number: <xliff:g id="order">%2$s</xliff:g>.</string>
-    <string name="progress_warning_check">Payment hasn\'t reached your account yet. \nWe will check again within two working days.</string>
-    <string name="btn_back">Return</string>
-    <string name="btn_recharge_other">Top up</string>
-    <string name="btn_call">Call</string>
+    <string name="progress_submit_title">Permintaan disampaikan</string>
+    <string name="progress_submit_recharge_summary">Mengisi saldo: <xliff:g id="value">%1$s</xliff:g> MiCredits.</string>
+    <string name="progress_submit_hint">Pengisian saldo akan masuk kedalam akun anda dalam 3 menit.</string>
+    <string name="btn_count_down_auto">Meminta keterangan setelah<xliff:g id="count">%1$s</xliff:g> beberapa detik</string>
+    <string name="btn_query">Meminta keterangan</string>
+    <string name="progress_querying">Sedang diproses\u2026</string>
+    <string name="progress_success_recharge_title"><xliff:g id="value">%1$s</xliff:g> Pengisian saldo MiCredit komplit</string>
+    <string name="progress_success_pay_title"><xliff:g id="value">%1$s</xliff:g> Pembayaran MiCredit komplit</string>
+    <string name="progress_success_recharge_summary">Saldo akun: <xliff:g id="balance">%1$s</xliff:g> MiCredits.</string>
+    <string name="progress_success_pay_summary"><xliff:g id="rechargeFee">%1$s</xliff:g> Pengisian ulang MiCredits，<xliff:g id="payFee">%2$s</xliff:g> MiCredits dibayarkan</string>
+    <string name="progress_error_recharge_title">Pengisian saldo gagal</string>
+    <string name="progress_error_recharge_summary">Pengisian saldo gagal, silahkan coba lagi.</string>
+    <string name="progress_error_pay_title">Pembayaran gagal</string>
+    <string name="progress_error_pay_summary"><xliff:g id="rechargeFee">%1$s</xliff:g> Pengisian ulang MiCredits, namun pembayaran gagal, silahkan coba lagi.</string>
+    <string name="progress_warning_waiting">Pembayaran tidak bisa meraih akun anda.</string>
+    <string name="progress_warning_contact_server">Pembayaran masih belum masuk ke akun anda. \n1. Silakan menghubungi pusat layanan pelanggan Shenzhou kami：<xliff:g id="number">%1$s</xliff:g> \n2. Bila diminta, berikan nomor seri: <xliff:g id="order">%2$s</xliff:g>.</string>
+    <string name="progress_warning_check">Pembayaran tidak bisa meraih akun anda. \nKami akan memeriksa lagi dalam waktu dua hari kerja.</string>
+    <string name="btn_back">Kembali</string>
+    <string name="btn_recharge_other">Pengisian saldo</string>
+    <string name="btn_call">Panggilan</string>
 
-    <string name="recharge_notification">Topping up: <xliff:g id="value">%1$s</xliff:g> MiCredits</string>
-    <string name="giftcard_push_notification_prime_title">You\'ve received a gift certificate</string>
-    <string name="giftcard_push_notification_sub_title"><xliff:g id="activityName">%1$s</xliff:g>: <xliff:g id="giftcardValue">%2$s</xliff:g> MiCredit giveaway.</string>
-    <string name="recharge_push_notification_prime_title"><xliff:g id="chargeXiaomiId">%1$d</xliff:g>  added <xliff:g id="chargeMibi">%2$s</xliff:g> MiCredits to your account</string>
-    <string name="recharge_push_notification_sub_title">Top-up complete.</string>
-    <string name="giftcard_expire_notification_prime_title">Yikes! Your promotional code is about to expire \u2026</string>
-    <string name="giftcard_expire_notification_sub_title">Your Mi Credit Gift Card expires on <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="recharge_notification">Melakukan pengisian saldo: <xliff:g id="value">%1$s</xliff:g> MiCredits</string>
+    <string name="giftcard_push_notification_prime_title">Anda telah menerima sertifikat hadiah</string>
+    <string name="giftcard_push_notification_sub_title"><xliff:g id="activityName">%1$s</xliff:g>: <xliff:g id="giftcardValue">%2$s</xliff:g>Memberikan MiCredit.</string>
+    <string name="recharge_push_notification_prime_title"><xliff:g id="chargeXiaomiId">%1$d</xliff:g>  ditambahkan <xliff:g id="chargeMibi">%2$s</xliff:g> ke akun MiCredits anda</string>
+    <string name="recharge_push_notification_sub_title">Pengisian saldo komplit.</string>
+    <string name="giftcard_expire_notification_prime_title">Yikes! Kode promosi anda akan berakhir \u2026</string>
+    <string name="giftcard_expire_notification_sub_title">Kartu hadiah MiCredit anda berakhir pada <xliff:g id="date">%1$s</xliff:g></string>
 
     <string name="title_mili_center">MiCredits</string>
-    <string name="title_recharge_record">Top-up records</string>
-    <string name="title_pay_record">Payment records</string>
-    <string name="title_transaction">Transactions</string>
-    <string name="title_giftcard">Promotions</string>
-    <string name="giftcard_record">My gift cards</string>
-    <string name="title_discounts">Discounts</string>
-    <string name="btn_mili_center_recharge">Top up MiCredit</string>
+    <string name="title_recharge_record">Catatan pengisian saldo</string>
+    <string name="title_pay_record">Catatan pembayaran</string>
+    <string name="title_transaction">Transaksi</string>
+    <string name="title_giftcard">Promosi</string>
+    <string name="giftcard_record">Kartu hadiahku</string>
+    <string name="title_discounts">Diskon</string>
+    <string name="btn_mili_center_recharge">Pengisian saldo MiCredit</string>
     <string name="fee"><xliff:g id="value">%1$s</xliff:g> MiCredit</string>
-    <string name="recharge_record_empty">No top-up records.</string>
-    <string name="pay_record_empty">No payment records.</string>
+    <string name="recharge_record_empty">Tidak ada catatan pengisian saldo.</string>
+    <string name="pay_record_empty">Tidak ada catatan pembayaran.</string>
     <string name="progress_downloading">Loading\u2026</string>
-    <string name="btn_net_connection_retry">Retry</string>
-    <string name="pay_record_typeall">All</string>
+    <string name="btn_net_connection_retry">Mencoba kembali</string>
+    <string name="pay_record_typeall">Semua</string>
 
-    <string name="mibi_license_title">Terms and conditions </string>
-    <string name="mibi_license_message">You\'re about to use Mi Credit, which is a service provided by Xiaomi Inc. Before you can use this service, you must agree to the Terms of Service stated in "<xliff:g id="agreement">%1$s</xliff:g>".
-        Touch OK if you agree to the terms and conditions described in the "<xliff:g id="agreement">%1$s</xliff:g>".</string>
-    <string name="mibi_license_message_span">MiCredit User Agreement</string>
-    <string name="btn_agree">Agree</string>
+    <string name="mibi_license_title">Syarat dan kondisi </string>
+    <string name="mibi_license_message">Anda akan menggunakan MiCredit, yaitu layanan yang disediakan oleh Xiaomi Inc. Sebelum anda dapat menggunakan layanan ini, anda harus menyetujui persyaratan layanan yang dinyatakan dalam "<xliff:g id="agreement">%1$s</xliff:g>".
+        Sentuh OKE jika anda setuju dengan persyaratan dan kondisi yang dijelaskan dalam "<xliff:g id="agreement">%1$s</xliff:g>".</string>
+    <string name="mibi_license_message_span">Perjanjian Pengguna MiCredit</string>
+    <string name="btn_agree">Setuju</string>
 
-    <string name="security_setting">Security settings</string>
-    <string name="lockscreen_forgot_pattern_button_text"><u>Forgot pattern password</u></string>
-    <string name="lockpattern_recording_intro_header">Draw an unlock pattern:</string>
-    <string name="lockpattern_settings_help_how_to_record">How to draw an unlock pattern</string>
-    <string name="lockpattern_recording_incorrect_too_short">Connect at least <xliff:g id="number">%d</xliff:g> dots. Try again:</string>
-    <string name="lockpattern_pattern_entered_header">Pattern recorded.</string>
-    <string name="lockpattern_need_to_confirm">Draw pattern again to confirm:</string>
-    <string name="lockpattern_need_to_confirm_wrong">Inconsistent with the previous entry, please re-enter:</string>
-    <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red>Password wrong,you can enter <xliff:g id="timesLeft">%d</xliff:g> times more&lt;/font></string>
-    <string name="lockpattern_pattern_confirmed_header">Your new unlock pattern:</string>
-    <string name="lockpattern_recording_inprogress">Release finger when done.</string>
-    <string name="lockpattern_retry_text"><u>Reset pattern password</u></string>
-    <string name="forget_password"><u>Forgot password</u></string>
+    <string name="security_setting">Pengaturan keamanan</string>
+    <string name="lockscreen_forgot_pattern_button_text"><u>Lupa pola sandi</u></string>
+    <string name="lockpattern_recording_intro_header">Menggambar pola pembuka kunci:</string>
+    <string name="lockpattern_settings_help_how_to_record">Cara menggambar pola pembuka kunci</string>
+    <string name="lockpattern_recording_incorrect_too_short">Paling tidak hubungkan <xliff:g id="number">%d</xliff:g> titik-titik. Coba lagi:</string>
+    <string name="lockpattern_pattern_entered_header">Pola direkam.</string>
+    <string name="lockpattern_need_to_confirm">Buat pola lagi untuk mengonfirmasi:</string>
+    <string name="lockpattern_need_to_confirm_wrong">Tidak sama dengan masukan sebelumnya, masukkan kembali:</string>
+    <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red>Sandi salah, anda dapat memasukkan <xliff:g id="timesLeft">%d</xliff:g> times more&lt;/font></string>
+    <string name="lockpattern_pattern_confirmed_header">Pola pembuka kunci baru anda:</string>
+    <string name="lockpattern_recording_inprogress">Lepaskan jari ketika selesai.</string>
+    <string name="lockpattern_retry_text"><u>Ulang pola sandi</u></string>
+    <string name="forget_password"><u>Lupa sandi</u></string>
     <string name="login">Login</string>
-    <string name="cancel">Cancel</string>
-    <string name="change_security_lock">More screen locks</string>
-    <string name="lockpassword_confirm_your_pattern_header">Confirm your pattern</string>
-    <string name="lockpassword_input_your_pattern_header">Confirm your pattern</string>
-    <string name="lockpassword_choose_your_pattern_header">Choose your pattern</string>
+    <string name="cancel">Batal</string>
+    <string name="change_security_lock">Kunci layar lainnya</string>
+    <string name="lockpassword_confirm_your_pattern_header">Konfirmasi pola anda</string>
+    <string name="lockpassword_input_your_pattern_header">Konfirmasi pola anda</string>
+    <string name="lockpassword_choose_your_pattern_header">Pilih pola anda</string>
 
-    <string name="lockpattern_continue_button_text">Continue</string>
-    <string name="lockpattern_confirm_button_text">Confirm</string>
-    <string name="lockpattern_tutorial_cancel_label">Cancel</string>
-    <string name="lockpattern_tutorial_continue_label">Next</string>
+    <string name="lockpattern_continue_button_text">Lanjutkan</string>
+    <string name="lockpattern_confirm_button_text">Konfirmasi</string>
+    <string name="lockpattern_tutorial_cancel_label">Batal</string>
+    <string name="lockpattern_tutorial_continue_label">Selanjutnya</string>
     <string name="lockpattern_need_to_unlock_wrong_footer" />
-    <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red>Too many incorrect attempts!&lt;/font></string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red>Terlalu banyak percobaan yang salah!&lt;/font></string>
     <string name="lockpattern_need_to_unlock_footer" />
-    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Try again in <xliff:g id="number">%d</xliff:g> seconds.</string>
-    <string name="title_myaccount">My account: <xliff:g id="account">%s</xliff:g></string>
-    <string name="title_gesture">Pattern lock</string>
-    <string name="title_lockpattern">Require pattern lock</string>
-    <string name="title_visible_pattern">Make pattern visible</string>
-    <string name="summary_lockpattern">Require a unique pattern lock for MiCredit</string>
-    <string name="title_change_lockpattern">Configure pattern lock</string>
-    <string name="title_password">Password</string>
-    <string name="title_nopassword">Don\'t require for small payments</string>
-    <string name="title_password_threshold">Daily limit = ￥<xliff:g id="value">%1$s</xliff:g></string>
-    <string name="title_nopassword_dialog">Daily limit</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Silahkan coba lagi dalam <xliff:g id="number">%d</xliff:g> beberapa detik.</string>
+    <string name="title_myaccount">Akunku: <xliff:g id="account">%s</xliff:g></string>
+    <string name="title_gesture">Kunci po;a</string>
+    <string name="title_lockpattern">Memerlukan kunci pola</string>
+    <string name="title_visible_pattern">Buat pola yang terlihat</string>
+    <string name="summary_lockpattern">Memerlukan kunci pola yang unik untuk MiCredit</string>
+    <string name="title_change_lockpattern">Konfigurasi kunci pola</string>
+    <string name="title_password">Sandi</string>
+    <string name="title_nopassword">Tidak dibutuhkan untuk pembayaran kecil</string>
+    <string name="title_password_threshold">Batas harian = ￥<xliff:g id="value">%1$s</xliff:g></string>
+    <string name="title_nopassword_dialog">Batas harian</string>
 
-    <string name="button_confirm">Confirm</string>
-    <string name="button_next">Next</string>
-    <string name="scan_prompt_number">Scan <xliff:g id="carrier">%1$s</xliff:g> prepaid card number</string>
-    <string name="scan_prompt_password">Scan <xliff:g id="carrier">%1$s</xliff:g> prepaid card password</string>
-    <string name="scan_prompt_voucher">Scan MiCredit password</string>
-    <string name="scan_prompt_retry">Keep the card in the position of non-reflective, remains stable after retry</string>
+    <string name="button_confirm">Konfirmasi</string>
+    <string name="button_next">Selanjutnya</string>
+    <string name="scan_prompt_number">Peninjauan <xliff:g id="carrier">%1$s</xliff:g> nomor kartu prabayar</string>
+    <string name="scan_prompt_password">Peninjauan  <xliff:g id="carrier">%1$s</xliff:g> sandi kartu prabayar</string>
+    <string name="scan_prompt_voucher">Peninjauan sandi MiCredit</string>
+    <string name="scan_prompt_retry">Simpan kartu dalam posisi non-reflektif, tetap stabil setelah dicoba ulang</string>
 
-    <string name="detail_recharge_title">Top-up records</string>
-    <string name="detail_recharge_order">Top-up Order No.</string>
-    <string name="detail_recharge_account">Top-up ID</string>
-    <string name="detail_pay_account">Payment ID</string>
-    <string name="detail_recharge_method">Method</string>
-    <string name="detail_recharge_amount">Amount</string>
-    <string name="detail_recharge_time">Time</string>
+    <string name="detail_recharge_title">Catatan pengisian saldo</string>
+    <string name="detail_recharge_order">Nomor pesanan pengisian saldo</string>
+    <string name="detail_recharge_account">ID pengisian saldo</string>
+    <string name="detail_pay_account">ID pembayaran</string>
+    <string name="detail_recharge_method">Metode</string>
+    <string name="detail_recharge_amount">Jumlah</string>
+    <string name="detail_recharge_time">Waktu</string>
 
-    <string name="detail_consume_title">Payment records</string>
-    <string name="detail_consume_order">Payment ID</string>
-    <string name="detail_consume_account">Purchase ID</string>
-    <string name="detail_consume_name">Product</string>
-    <string name="detail_consume_amount">Amount</string>
-    <string name="detail_consume_time">Time</string>
+    <string name="detail_consume_title">Catatan pembayaran</string>
+    <string name="detail_consume_order">ID pembayaran</string>
+    <string name="detail_consume_account">ID pembelian</string>
+    <string name="detail_consume_name">Produk</string>
+    <string name="detail_consume_amount">Jumlah</string>
+    <string name="detail_consume_time">Waktu</string>
 
-    <string name="detail_giftcard_title">Gift card details</string>
-    <string name="detail_giftcard_total">Gift card total</string>
-    <string name="detail_giftcard_activity">Promotion</string>
-    <string name="detail_giftcard_expired_time">Expiration date</string>
-    <string name="detail_giftcard_theme">Purchase themes</string>
+    <string name="detail_giftcard_title">Detail kartu hadiah</string>
+    <string name="detail_giftcard_total">Total kartu hadiah</string>
+    <string name="detail_giftcard_activity">Promosi</string>
+    <string name="detail_giftcard_expired_time">Tanggal berakhir</string>
+    <string name="detail_giftcard_theme">Tema pembelian</string>
 </resources>
