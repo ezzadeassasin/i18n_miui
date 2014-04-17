@@ -132,23 +132,23 @@
     <string name="msg_telecom_order_goods_label">Deskripsi produk:</string>
     <string name="msg_telecom_order_goods"><xliff:g id="mibi_num">%1s</xliff:g> MiCredits</string>
     <string name="msg_telecom_order_denom_label">Jumlah yang harus dibayar: </string>
-    <string name="msg_telecom_order_denom">￥<xliff:g id="rmb_num">%1s</xliff:g> (not including mobile network data fees)</string>
-    <string name="msg_telecom_sending">Contacting network provider\u2026</string>
-    <string name="btn_recharge_confirm">Confirm purchase</string>
-    <string name="btn_wait_confirm">Waiting</string>
-    <string name="btn_wait_confirm_count">Waiting（<xliff:g id="count">%1$s</xliff:g>）</string>
-    <string name="msg_order_hint_1_1">After you touch "Confirm purchase", your phone will</string>
-    <string name="msg_order_hint_1_2">Automatically contact your service provider.</string>
-    <string name="msg_progress_hint_2_1">Your network provider has been contacted!</string>
-    <string name="msg_progress_hint_2_2">You will receive a text confirmation shortly.</string>
+    <string name="msg_telecom_order_denom">￥<xliff:g id="rmb_num">%1s</xliff:g> (tidak termasuk biaya data jaringan selular)</string>
+    <string name="msg_telecom_sending">Menghubungi operator jaringan\u2026</string>
+    <string name="btn_recharge_confirm">Konfirmasi pembelian</string>
+    <string name="btn_wait_confirm">Menunggu</string>
+    <string name="btn_wait_confirm_count">Menunggu（<xliff:g id="count">%1$s</xliff:g>）</string>
+    <string name="msg_order_hint_1_1">Setelah Anda menyentuh "Konfirmasi pembelian", telepon anda akan</string>
+    <string name="msg_order_hint_1_2">Secara otomatis menghubungi penyedia layanan anda.</string>
+    <string name="msg_progress_hint_2_1">Penyedia jaringan anda telah dihubungi!</string>
+    <string name="msg_progress_hint_2_2">Anda akan menerima konfirmasi teks sesegera mungkin.</string>
 
-    <string name="giftcard_denom_available">MiCredit available</string>
+    <string name="giftcard_denom_available">MiCredit tersedia</string>
     <string name="giftcard_denom">MiCredit</string>
-    <string name="giftcard_denom_frozen">MiCredit frozen</string>
-    <string name="giftcard_hint">MiCredits added via gift card will be spent first automatically.</string>
-    <string name="giftcard_acitivity_and_denomination"><xliff:g id="denomination">%2$s</xliff:g>-MiCredit gift card from <xliff:g id="activity">%1$s</xliff:g></string>
-    <string name="giftcard_expire"><xliff:g id="date">%1$s</xliff:g> expired</string>
-    <string name="giftcard_empty">No gift cards.</string>
+    <string name="giftcard_denom_frozen">MiCredit dibekukan</string>
+    <string name="giftcard_hint">MiCredits yang ditambahkan melalui kartu hadiah akan digunakan secara otomatis untuk penggunaan pertama kali.</string>
+    <string name="giftcard_acitivity_and_denomination"><xliff:g id="denomination">%2$s</xliff:g>-MiCredit kartu hadiah dari <xliff:g id="activity">%1$s</xliff:g></string>
+    <string name="giftcard_expire"><xliff:g id="date">%1$s</xliff:g>kadaluarsa</string>
+    <string name="giftcard_empty">Tidak ada kartu hadiah.</string>
 
     <string name="bankcall_merchant">Receiver:</string>
     <string name="bankcall_denom">Amount:</string>
