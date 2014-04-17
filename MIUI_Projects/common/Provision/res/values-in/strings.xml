@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="next">Next</string>
+    <string name="next">Selanjutnya</string>
 
-    <string name="continues">Continue</string>
-    <string name="shutdown">Power off</string>
+    <string name="continues">Lanjut</string>
+    <string name="shutdown">Matikan</string>
 
-    <string name="other_service_label">Other services</string>
-    <string name="other_service_location">Location access</string>
-    <string name="other_service_location_summary">Let map and other apps pinpoint your location via GPS</string>
-    <string name="other_service_google_location">Google location service</string>
-    <string name="other_service_google_location_use">Location &amp; Google search</string>
-    <string name="other_service_google_location_use_summary">Let Google use your location to improve search results and other services</string>
-    <string name="other_service_google_location_use_help">Allow Google\'s location service to collect anonymous location data. Collection will occur even when no applications are running.</string>
-    <string name="other_service_permission_manager">Manage app permissions</string>
-    <string name="other_service_permission_manager_summary">Monitoring apps for security and privacy</string>
-    <string name="other_service_user_experience">User experience program</string>
-    <string name="other_service_user_experience_summary0">"Help Xiaomi improve its products and services by sending anonymous diagnostic and usage data. "</string>
-    <string name="other_service_user_experience_summary1">"(View privacy policy)"</string>
+    <string name="other_service_label">Layanan lainnya</string>
+    <string name="other_service_location">Akses lokasi</string>
+    <string name="other_service_location_summary">Biarkan peta dan aplikasi lain menentukan lokasi anda melalui GPS</string>
+    <string name="other_service_google_location">Layanan lokasi Google</string>
+    <string name="other_service_google_location_use">Lokasi &amp; pencarian Google</string>
+    <string name="other_service_google_location_use_summary">Biarkan Google menggunakan lokasi anda untuk meningkatkan hasil pencarian dan layanan lainnya</string>
+    <string name="other_service_google_location_use_help">Izinkan layanan lokasi Google untuk mengumpulkan data lokasi anonim. Koleksi akan terjadi bahkan ketika tidak ada aplikasi yang berjalan.</string>
+    <string name="other_service_permission_manager">Mengelola izin aplikasi</string>
+    <string name="other_service_permission_manager_summary">Memantau aplikasi untuk keamanan dan privasi</string>
+    <string name="other_service_user_experience">Pengalaman pengguna program</string>
+    <string name="other_service_user_experience_summary0">"Bantu Xiaomi untuk meningkatkan produk dan layanannya dengan mengirimkan data diagnostik dan penggunaan anonim. "</string>
+    <string name="other_service_user_experience_summary1">"(Tampilkan Kebijakan Privasi)"</string>
 
-    <string name="sim_card_detection_dialog_message">Checking for SIM card\u2026</string>
-    <string name="sim_card_detection_label">SIM card</string>
+    <string name="sim_card_detection_dialog_message">Memeriksa kartu SIM\u2026</string>
+    <string name="sim_card_detection_label">Kartu SIM</string>
     <string name="sim_card_detection_info"></string>
-    <string name="sim_card_detection_status_absent">No SIM card detected</string>
+    <string name="sim_card_detection_status_absent">Tidak ada kartu SIM terdeteksi</string>
 
-    <string name="setup_complete_label">Thank you</string>
+    <string name="setup_complete_label">Terima kasih</string>
     <string name="setup_complete_info"></string>
-    <string name="setup_complete_start">Start using MIUI</string>
-    <string name="setup_complete_summary">Setup complete! Enjoy :)</string>
+    <string name="setup_complete_start">Mulai menggunakan MIUI</string>
+    <string name="setup_complete_summary">Konfigurasi selesai! Silahkan menikmati:)</string>
 
 </resources>
 
