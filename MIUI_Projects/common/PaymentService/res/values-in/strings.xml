@@ -150,37 +150,37 @@
     <string name="giftcard_expire"><xliff:g id="date">%1$s</xliff:g>kadaluarsa</string>
     <string name="giftcard_empty">Tidak ada kartu hadiah.</string>
 
-    <string name="bankcall_merchant">Receiver:</string>
-    <string name="bankcall_denom">Amount:</string>
-    <string name="bankcall_bank_account">Bank card: </string>
-    <string name="bankcall_xiaomi_company">Xiaomi Corporation (Beijing)</string>
+    <string name="bankcall_merchant">Penerima:</string>
+    <string name="bankcall_denom">Jumlah:</string>
+    <string name="bankcall_bank_account">Kartu bank: </string>
+    <string name="bankcall_xiaomi_company">Korporasi Xiaomi (Beijing)</string>
     <string name="bankcall_denom_number">￥<xliff:g id="denom">%1$s</xliff:g></string>
-    <string name="bankcall_card">Bank card</string>
-    <string name="bankcall_card_hint">Please enter account number</string>
+    <string name="bankcall_card">Kartu bank</string>
+    <string name="bankcall_card_hint">Masukkan nomor rekening</string>
     <string name="bankcall_card_type"><xliff:g id="bank">%1$s</xliff:g>-<xliff:g id="type">%2$s</xliff:g></string>
-    <string name="bankcall_card_type_tailnum"><xliff:g id="bank">%1$s</xliff:g>-<xliff:g id="type">%2$s</xliff:g>(Card No. <xliff:g id="cardNo">%3$s</xliff:g>)</string>
-    <string name="bankcall_debit_card">Debit card</string>
-    <string name="bankcall_credit_card">Credit card</string>
-    <string name="bankcall_province">Province</string>
-    <string name="bankcall_city">City</string>
-    <string name="bankcall_name">Name</string>
-    <string name="bankcall_name_hint">Name associated with the account</string>
-    <string name="bankcall_id_card">ID card no.</string>
-    <string name="bankcall_id_card_hint">ID card no. associated with the account</string>
-    <string name="bankcall_phone">Phone</string>
-    <string name="bankcall_phone_debit_hint">Make sure you have a good Internet connection.</string>
-    <string name="bankcall_phone_credit_hint">Bank account\'s corresponding personal phone number</string>
-    <string name="bankcall_hint">This service is encrypted and authorized by UnionPay.</string>
-    <string name="bankcall_call_hint">You will receive a call from UnionPay (020-96585) shortly.</string>
-    <string name="btn_wait_call">Waiting\u2026</string>
-    <string name="btn_wait_call_count">Waiting (<xliff:g id="count">%1$s</xliff:g>)</string>
-    <string name="bankcall_error_card">Account number invalid: please correct your account number.</string>
-    <string name="bankcall_error_card_info">Account info is incorrect: please correct your account information.</string>
-    <string name="progress_bankcall_card_querying">Checking account type\u2026</string>
-    <string name="progress_bankcall_card_creating">Generating order\u2026</string>
-    <string name="btn_other_bankcard">Use another card</string>
-    <string name="btn_delete_record">Delete</string>
-    <string name="bankcall_saved_card_info"><xliff:g id="bank">%1$s</xliff:g> - Card No. <xliff:g id="ending">%2$s</xliff:g></string>
+    <string name="bankcall_card_type_tailnum"><xliff:g id="bank">%1$s</xliff:g>-<xliff:g id="type">%2$s</xliff:g>(Nomor kartu. <xliff:g id="cardNo">%3$s</xliff:g>)</string>
+    <string name="bankcall_debit_card">Kartu debit</string>
+    <string name="bankcall_credit_card">Kartu kredit</string>
+    <string name="bankcall_province">Propinsi</string>
+    <string name="bankcall_city">Kota</string>
+    <string name="bankcall_name">Nama</string>
+    <string name="bankcall_name_hint">Nama yang terkait dengan akun</string>
+    <string name="bankcall_id_card">Nomor kartu ID</string>
+    <string name="bankcall_id_card_hint">Nomor kartu ID terkait dengan akun</string>
+    <string name="bankcall_phone">Telepon</string>
+    <string name="bankcall_phone_debit_hint">Pastikan anda memiliki koneksi internet yang baik.</string>
+    <string name="bankcall_phone_credit_hint">Rekening bank sesuai dengan nomor telepon pribadi \ 's</string>
+    <string name="bankcall_hint">Layanan ini dienkripsi dan disahkan oleh UnionPay.</string>
+    <string name="bankcall_call_hint">Anda akan segera menerima panggilan dari UnionPay (020-96585).</string>
+    <string name="btn_wait_call">Menunggu\u2026</string>
+    <string name="btn_wait_call_count">Menunggu (<xliff:g id="count">%1$s</xliff:g>)</string>
+    <string name="bankcall_error_card">Nomor rekening tidak valid: silahkan koreksi nomor rekening anda.</string>
+    <string name="bankcall_error_card_info">Info akun salah: mohon perbaiki informasi akun anda.</string>
+    <string name="progress_bankcall_card_querying">Memeriksa jenis akun\u2026</string>
+    <string name="progress_bankcall_card_creating">Melakukan pesanan\u2026</string>
+    <string name="btn_other_bankcard">Gunakan kartu lain</string>
+    <string name="btn_delete_record">Hapus</string>
+    <string name="bankcall_saved_card_info"><xliff:g id="bank">%1$s</xliff:g> - Nomor kartu <xliff:g id="ending">%2$s</xliff:g></string>
 
     <string name="progress_submit_title">Request submitted</string>
     <string name="progress_submit_recharge_summary">Topping up: <xliff:g id="value">%1$s</xliff:g> MiCredits.</string>
