@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="app_name">Security</string>
-    <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="optimize_now">Start</string>
-    <string name="score">Score</string>
+    <string name="app_name">Keamanan</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="hello_world">Halo dunia!</string>
+    <string name="optimize_now">Mulai</string>
+    <string name="score">Nilai</string>
     <string name="seventy">70</string>
     <string name="valuation">Clean recommended</string>
     <string name="virus_scan">Virus scan</string>
