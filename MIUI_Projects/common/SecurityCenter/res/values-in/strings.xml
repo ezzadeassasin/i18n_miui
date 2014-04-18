@@ -134,96 +134,96 @@
     <string name="fw_menu_remove">Hapus</string>
     <string name="confirm">OKE</string>
     <string name="no">Batal</string>
-    <string name="fw_clear_blacklist">Clear blocklist</string>
-    <string name="fw_clear_whitelist">Clear exceptions</string>
-    <string name="fw_restore_ms">Restore messages</string>
-    <string name="fw_ms">Message time: <xliff:g>%s</xliff:g> (<xliff:g>%d</xliff:g>)</string>
-    <string name="fw_call">Call time: <xliff:g>%s</xliff:g> (<xliff:g>%d</xliff:g>)</string>
-    <string name="fw_import_blacklist">Import blocklist</string>
-    <string name="fw_import_whitelist">Import exceptions</string>
-    <string name="fw_import_blacklist_confirm">%d numbers are selected, are you sure to import into blocklist?</string>
-    <string name="fw_import_whitelist_confirm">%d numbers are selected, are you sure to import into exceptions?</string>
-    <string name="fw_blacklist_hint">Calls and messages will be blocked by default</string>
-    <string name="fw_whitelist_hint">Calls and messages will not be blocked by default</string>
-    <string name="fw_no_effect">Guest Mode is not enabled. Do you want to enable it now?</string>
-    <string name="fw_call_muted">Call muted.</string>
-    <string name="fw_call_rejected">Call diverted.</string>
-    <string name="fw_call_imported">Import Call log</string>
-    <string name="fw_ms_muted">Message silenced.</string>
-    <string name="fw_ms_rejected">Message rejected.</string>
-    <string name="fw_ms_filtered">Message filtered.</string>
-    <string name="fw_ms_imported">Messages imported.</string>
-    <string name="fw_keyword_list">Keyword list</string>
-    <string name="fw_keyword_list_hint">Keywords entered here will be used to block incoming messages</string>
-    <string name="menu_edit">Edit</string>
-    <string name="fw_add_keyword">Add keyword</string>
-    <string name="fw_edit_keyword">Edit keyword</string>
-    <string name="fw_clear_all_keyword">Clear all keywords</string>
-    <string name="fw_add_keyword_existing">Keyword: %s already defined</string>
+    <string name="fw_clear_blacklist">Hapus daftar blokir</string>
+    <string name="fw_clear_whitelist">Hapus pengecualian</string>
+    <string name="fw_restore_ms">Kembalikan pesan</string>
+    <string name="fw_ms">Waktu pesan: <xliff:g>%s</xliff:g> (<xliff:g>%d</xliff:g>)</string>
+    <string name="fw_call">Waktu panggilan: <xliff:g>%s</xliff:g> (<xliff:g>%d</xliff:g>)</string>
+    <string name="fw_import_blacklist">Impor daftar blokir</string>
+    <string name="fw_import_whitelist">Impor pengecualian</string>
+    <string name="fw_import_blacklist_confirm">%d nomor telah dipilih, apakah anda yakin untuk mengimpornya ke daftar blokir?</string>
+    <string name="fw_import_whitelist_confirm">%d nomor telah dipilih, apakah anda yakin untuk mengimpornya ke pengecualian?</string>
+    <string name="fw_blacklist_hint">Panggilan dan pesan akan diblokir secara default</string>
+    <string name="fw_whitelist_hint">Panggilan dan pesan tidak akan diblokir secara default</string>
+    <string name="fw_no_effect">Modus tamu tidak diaktifkan. Apakah anda ingin mengaktifkannya sekarang?</string>
+    <string name="fw_call_muted">Panggilan disunyikan.</string>
+    <string name="fw_call_rejected">Panggilan dialihkan.</string>
+    <string name="fw_call_imported">Impor catatan panggilan</string>
+    <string name="fw_ms_muted">Pesan disunyikan.</string>
+    <string name="fw_ms_rejected">Pesan ditolak.</string>
+    <string name="fw_ms_filtered">Pesan disaring.</string>
+    <string name="fw_ms_imported">Pesan diimpor.</string>
+    <string name="fw_keyword_list">Daftar kata kunci</string>
+    <string name="fw_keyword_list_hint">Kata kunci yang dimasukkan di sini akan digunakan untuk memblokir pesan masuk</string>
+    <string name="menu_edit">Sunting</string>
+    <string name="fw_add_keyword">Tambahkan kata kunci</string>
+    <string name="fw_edit_keyword">Sunting kata kunci</string>
+    <string name="fw_clear_all_keyword">Hapus semua kata kunci</string>
+    <string name="fw_add_keyword_existing">Kata kunci: %s sudah didefinisikan</string>
 
     <!-- Added by Libra -->
-    <string name="member_firewall_log">Blocked: Number<xliff:g id="tel_count">%d</xliff:g>, details<xliff:g id="ms_count">%d</xliff:g></string>
-    <string name="clear_all_calllog">Clear call log</string>
-    <string name="clear_all_mslog">Clear message log</string>
-    <string name="calllog">Call log</string>
-    <string name="firewall_log">Firewall log</string>
+    <string name="member_firewall_log">Diblokir: Nomor<xliff:g id="tel_count">%d</xliff:g>, detil<xliff:g id="ms_count">%d</xliff:g></string>
+    <string name="clear_all_calllog">Hapus catatan panggilan</string>
+    <string name="clear_all_mslog">Hapus catatan pesan</string>
+    <string name="calllog">Catatan panggilan</string>
+    <string name="firewall_log">Catatan firewall</string>
     <!-- reasons -->
 
 
     <!-- notification -->
-    <string name="fw_on">Do not disturb enabled</string>
-    <string name="fw_blocked">Blocked log</string>
-    <string name="fw_blocked_count">Intercepted:<xliff:g id="opt">%d</xliff:g>Calls and <xliff:g id="opt">%d</xliff:g>Messages</string>
-    <string name="firewall_settings">Do not disturb settings</string>
-    <string name="remove">Delete</string>
-    <string name="emptylist_fwlog_call">Blocked calls will be logged here</string>
-    <string name="emptylist_fwlog_ms">All blocked texts and MMS messages will be logged here</string>
-    <string name="add_button">Add</string>
-    <string name="save_button">Save</string>
-    <string name="cancel_button">Cancel</string>
-    <string name="add_blacklist">Add to blocklist</string>
-    <string name="add_whitelist">Add to exceptions</string>
-    <string name="edit_blacklist">Edit note</string>
-    <string name="edit_whitelist">Edit note</string>
-    <string name="fw_notes_hint">Note (optional)</string>
-    <string name="number_add_hint">Enter number</string>
-    <string name="fw_in_blacklist">%s is already blocked. :)</string>
-    <string name="fw_in_whitelist">%s is already an exception.</string>
-    <string name="fw_import_ms">Import call logs and messages</string>
-    <string name="confirm_clear_blacklist">Clear blocklist?</string>
-    <string name="confirm_clear_whitelist">Clear exceptions?</string>
-    <string name="context_call">Call</string>
-    <string name="context_ms">Send SMS</string>
-    <string name="context_new_contact">New contact</string>
-    <string name="context_add_contact">Add to existing contact</string>
-    <string name="check_all">Select all</string>
-    <string name="check_nothing">Deselect all</string>
-    <string name="close_rule">Disable firewall rules</string>
-    <string name="fw_log_inf">Log</string>
-    <string name="remove_contact">Delete this contact?</string>
-    <string name="remove_inf">Delete info?</string>
-    <string name="remove_sms">Delete all message logs?</string>
-    <string name="remove_call_log">Delete all call logs?</string>
-    <string name="remove_keyword">Delete this keyword?</string>
-    <string name="remove_all_keywords">Delete all keywords?</string>
-    <string name="remove_delete">Delete</string>
+    <string name="fw_on">Jangan ganggu diaktifkan</string>
+    <string name="fw_blocked">Catatan diblokir</string>
+    <string name="fw_blocked_count">Dihadang:<xliff:g id="opt">%d</xliff:g>Panggilan dan <xliff:g id="opt">%d</xliff:g>Pesan</string>
+    <string name="firewall_settings">Pengaturan jangan ganggu</string>
+    <string name="remove">Hapus</string>
+    <string name="emptylist_fwlog_call">Panggilan diblokir akan dicatat di sini</string>
+    <string name="emptylist_fwlog_ms">Semua pesan teks dan MMS diblokir akan dicatat di sini</string>
+    <string name="add_button">Tambahkan</string>
+    <string name="save_button">Simpan</string>
+    <string name="cancel_button">Batalkan</string>
+    <string name="add_blacklist">Tambahkan ke daftar blokir</string>
+    <string name="add_whitelist">Tambahkan ke pengecualian</string>
+    <string name="edit_blacklist">Sunting catatan</string>
+    <string name="edit_whitelist">Sunting catatan</string>
+    <string name="fw_notes_hint">Catatan(opsional)</string>
+    <string name="number_add_hint">Masukkan nomor</string>
+    <string name="fw_in_blacklist">%s sudah diblokir. :)</string>
+    <string name="fw_in_whitelist">%s sudah dilakukan pengecualian.</string>
+    <string name="fw_import_ms">Impor catatan panggilan dan pesan</string>
+    <string name="confirm_clear_blacklist">Hapus daftar blokir?</string>
+    <string name="confirm_clear_whitelist">Hapus pengecualian?</string>
+    <string name="context_call">Panggilan</string>
+    <string name="context_ms">Kirim SMS</string>
+    <string name="context_new_contact">Kontak baru</string>
+    <string name="context_add_contact">Tambahkan ke kontak yang ada</string>
+    <string name="check_all">Pilih semua</string>
+    <string name="check_nothing">Hapus semua pilihan</string>
+    <string name="close_rule">Nonaktifkan aturan firewall</string>
+    <string name="fw_log_inf">Catatan</string>
+    <string name="remove_contact">Hapus kontak ini?</string>
+    <string name="remove_inf">Hapus info?</string>
+    <string name="remove_sms">Hapus semua catatan pesan?</string>
+    <string name="remove_call_log">Hapus semua catatan panggilan?</string>
+    <string name="remove_keyword">Hapus kata kunci ini?</string>
+    <string name="remove_all_keywords">Hapus semua kata kunci?</string>
+    <string name="remove_delete">Hapus</string>
 
     <!-- Added from V5 -->
     <!-- Tab -->
-    <string name="blacklist_tab_title">Blocklist</string>
-    <string name="whitelist_tab_title">Exceptions</string>
+    <string name="blacklist_tab_title">Daftar blokir</string>
+    <string name="whitelist_tab_title">Pengecualian</string>
     <string name="log_count">(%d)</string>
-    <string name="new_bw_list_button">Add contact</string>
+    <string name="new_bw_list_button">Tambahkan kontak</string>
 
     <!-- Add for mark -->
-    <string name="mark_number_dialog_maintitle">Block and report number</string>
-    <string name="mark_number_dialog_subtitle">Developed in part with Sogou</string>
+    <string name="mark_number_dialog_maintitle">Blokir dan laporkan nomor</string>
+    <string name="mark_number_dialog_subtitle">Dikembangkan sebagian dengan Sogou</string>
     <string name="custom_mark_category">Custom</string>
-    <string name="smart_antispam">Identify unknown numbers</string>
-    <string name="turn_on_smart_antispam_hint">Identify unwanted calls</string>
-    <string name="turn_on_smart_antispam_title">Identify unknown numbers</string>
-    <string name="turn_on_smart_antispam_summary_on">Only available when connected to Wi-Fi or 3G network</string>
-    <string name="turn_on_smart_antispam_summary_off">Filter using local number database</string>
+    <string name="smart_antispam">Mengidentifikasi nomor yang tidak diketahui</string>
+    <string name="turn_on_smart_antispam_hint">Mengidentifikasi panggilan yang tidak diinginkan</string>
+    <string name="turn_on_smart_antispam_title">Mengidentifikasi nomor yang tidak diketahui</string>
+    <string name="turn_on_smart_antispam_summary_on">Hanya tersedia ketika terhubung ke Wi-Fi atau jaringan 3G</string>
+    <string name="turn_on_smart_antispam_summary_off">Saring menggunakan basis data nomor lokal</string>
     <!-- #################### anti-spam end #################### -->
 
 </resources>
